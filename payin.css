@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+.wrapper{
+    background-color: white;
+    width: 70%;
+    margin: 40px auto;
+    padding: 15px;
+   
+
+}
+.head{
+    padding: 5px;
+    text-align: center;
+}
+#small1{
+    color: red;
+}
